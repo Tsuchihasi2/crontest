@@ -1,3 +1,3 @@
 # crontest
 
-How are you?
+Check your email!
