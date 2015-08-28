@@ -1,3 +1,3 @@
 # crontest
 
-Well done!!
+version 0.6!
