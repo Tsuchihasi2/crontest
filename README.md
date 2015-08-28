@@ -1,3 +1,3 @@
 # crontest
 
-Check your email!
+Chech your version!
