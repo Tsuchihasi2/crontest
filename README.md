@@ -1,3 +1,3 @@
 # crontest
 
-version 0.6!
+Check if your program is working well.
